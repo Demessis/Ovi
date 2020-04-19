@@ -1,0 +1,49 @@
+body {
+	background-color: black;
+}
+p,a {
+	color: #c86f11;
+}
+
+
+
+#nav{
+	background-color: #1f1e1f;
+	border-radius: 5px;
+}
+
+h2 {
+	margin-right: 125px;
+}
+
+h2, label {
+	color: #c86f11;
+}
+
+label {
+	margin-right: 130px;
+	margin-top: 10px;
+}
+
+.signUp {
+
+    background-color: #1f1e1f;
+    width: 300px;
+    height: 350px;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 150px;
+    border-radius: 25px;
+    border: 2px solid #c86f11;
+
+}
+
+.myButton {
+	background-color: ;
+	text-align: center;
+	margin-right: 105px;
+	border-radius: 25px;
+	padding-top: 10px;
+
+}
